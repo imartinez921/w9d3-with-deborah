@@ -19,7 +19,9 @@ class View {
   
   bindEvents() {}
 
-  handleClick(e) {}
+  handleClick(e) {
+
+  }
 
   makeMove(square) {}
 
